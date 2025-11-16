@@ -5,7 +5,7 @@
 Senior Data Science Professional with **5+ years of experience** specializing in **Credit Scoring & Decision Science** at **IMS Private Limited**. Proven track record in building predictive models, developing automated data pipelines, and delivering actionable insights.
 
 - 🏢 **Current Role:** Data Scientist at IMS Private Limited (Nov 2020 - Present)
-- 🏛️ **Previous:** RVR Project (2015-2020), ENMAS OM Services (2013-2015), Deepak Steels and Power (2011-2013)
+- 🏛️ **Previous:** RVR Project (2015-2020), ENMAS O&M Services (2013-2015), Deepak Steels and Power (2011-2013)
 - 🎯 **Expertise:** Python, SQL, SAS, Machine Learning, ROC Analysis, Feature Engineering
 - 🌱 **Currently Learning:** AWS AI Practitioner Certification, Agentic AI with LangGraph
 - 📍 **Location:** Bengaluru, India
