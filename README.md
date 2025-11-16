@@ -5,7 +5,7 @@
 Senior Data Science Professional with **5+ years of experience** specializing in **Credit Scoring & Decision Science**. Currently exploring opportunities with Accenture's I&F Decision Science team.
 
 - 🏢 **Experience:** Credit Scoring Models, Financial Analytics, Risk Assessment
-- 💼 **Previous:** HDFC Bank, Financial Services
+- 💼 **Previous:** Marketing Analytics
 - 🎯 **Expertise:** Python, SQL, Machine Learning, ROC Analysis, Feature Engineering
 - 🌱 **Currently Learning:** AWS AI Practitioner Certification, Agentic AI with LangGraph
 - 📍 **Location:** Bangalore, India
