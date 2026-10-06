@@ -1,52 +1,51 @@
 # Hi there, I'm Kamaleswar Mohanta 👋
 
+**Senior Electrical & Instrumentation (E&I) Engineer** | 15 years in Steel, Port & Power | PLC/DCS/SCADA | Python & AI for Industrial Reliability
+
 ## 🚀 About Me
 
-Senior Data Science Professional with **5+ years of experience** specializing in **Credit Scoring & Decision Science** at **IMS Private Limited**. Proven track record in building predictive models, developing automated data pipelines, and delivering actionable insights.
+Senior E&I Engineer with **15 years** of hands-on experience across Steel, By-Product Plant (BPP), Port and Power sectors - from erection, loop checking and commissioning through to long-term reliability and maintenance. I use Python and machine learning as a value-add to turn plant data into early failure warnings.
 
-- 🏢 **Current Role:** Data Scientist at IMS Private Limited (Nov 2020 - Present)
-- 🏛️ **Previous:** RVR Project (2015-2020), ENMAS O&M Services (2013-2015), Deepak Steels and Power (2011-2013)
-- 🎯 **Expertise:** Python, SQL, SAS, Machine Learning, ROC Analysis, Feature Engineering
-- 🌱 **Currently Learning:** AWS AI Practitioner Certification, Agentic AI with LangGraph
-- 📍 **Location:** Bengaluru, India
-- 🎓 **Education:** BTech in Instrumentation Electronics from BPUT Odisha
+- 🏢 **Current Role:** Senior Engineer - E&I, TQ Cert Services Pvt. Ltd. (Aug 2026 - Present) - BPP erection, testing & commissioning
+- 🏛️ **Previous:** Shiv Engineering & Port Services (2025-2026), Thejo Engineering (2020-2025), R.V.R. Projects (2015-2020), Electrosteel Steels (2013-2015), Deepak Steel & Power (2011-2013)
+- 📍 **Location:** Jamshedpur, India
+- 🎓 **Education:** B.Tech in Instrumentation & Control Engineering, BPUT Odisha
+
+## 🏆 Highlights
+
+- Reduced unplanned breakdown downtime by **20%** and sustained **98%+ equipment availability** on critical material-handling systems
+- O&M of automation for a **4,400 TPH, 3 x 5 km** long-distance coal conveyor system
+- **Kaigen Award** - designed custom PLC trip-interlock logic that eliminated nuisance tripping
+- Certificates of Appreciation - NCCS main PLC upgrade with communication redundancy; automatic alarm alert system for hoppers
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**
-- Python | SQL | SAS | PLC Ladder Logic
-- Alteryx | Tableau | Power BI | Excel Advanced
-- Machine Learning | Credit Risk Modeling
+**Automation & Control:**
+- Siemens SIMATIC | WinCC | TIA Portal
+- Schneider EcoStruxure | Vijeo Citect
+- DCS / PLC / SCADA programming & troubleshooting
+- Field instrumentation, control valves, TSI, loop checking & calibration
+
+**Maintenance & Systems:**
+- SAP PM / MM
+- Preventive, predictive & condition-based maintenance
+- Shutdown planning, P&IDs, loop drawings
+
+**Data & AI (value-add):**
+- Python | SQL | Power BI | Tableau | Excel
+- Machine Learning for predictive maintenance
 - LangGraph | LangChain | Agentic AI
-- Cloud: AWS, Google Cloud
 
-**Core Competencies:**
-- Credit Scoring & PD Scorecards
-- Financial Analytics & Risk Assessment
-- ETL/ELT Pipeline Development
-- Model Development (Logistic Regression, Decision Trees, Random Forest, XGBoost)
-- Data Quality & Governance
-
-## 🔥 Featured Projects
+## 🔥 Side Projects - Python & AI
 
 ### 🤖 [Agentic AI End-to-End](https://github.com/Icamtu/Agentic-AI-End-to-End)
-Developed an agentic AI framework based on LangGraph for autonomous, tool-augmented chatbots. Implemented full SDLC phases with graph-based data structures and cutting-edge LLM techniques.
+LangGraph-based framework for autonomous, tool-augmented chatbots.
 
 ### 📝 [Blog Generation with LangGraph](https://github.com/Icamtu/BlogGenerationLangGraph)
-Engineered an automated blog-writing application using Python, LangGraph, and LLMs (Gemini, ChatGPT, Groq). Built interactive Streamlit UI with multi-stage draft, feedback, and revision cycles.
+Automated writing app using Python, LangGraph and LLMs, with a Streamlit UI for draft, feedback and revision cycles.
 
 ### 📊 [Agentic Trading Assistance](https://github.com/Icamtu/AgenticTradingAssistance)
-Designed AI-supported trading decision platform with autonomous agents. Integrated external APIs (Polygon, Google) and LLM-driven analytics. Delivered cloud-ready FastAPI backend and Streamlit dashboard.
-
-## 💼 Professional Experience
-
-**Data Scientist | IMS Private Limited** (Nov 2020 - Present)
-- Performed end-to-end EDA, missing value treatment, and feature engineering for credit risk datasets
-- Built and automated daily-to-historical data pipelines using Python, SQL, SAS, and Alteryx
-- Developed PD scorecards and ML models for application & behavioral risk prediction
-- Designed delinquency-based collection strategies, improving high-risk customer targeting
-- Created dashboards and BAU reports using Tableau, Power BI, and Excel
-- Built analytical DataMart and recommendation engine generating ₹450K annual revenue
+AI-supported decision platform with autonomous agents, external API integration, a FastAPI backend and a Streamlit dashboard.
 
 ## 📈 GitHub Stats
 
@@ -54,17 +53,16 @@ Designed AI-supported trading decision platform with autonomous agents. Integrat
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamaleswar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamaleswarmohanta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaleswarmohanta@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icamtu)
 
 ## 💡 Interests
 
-- 🎯 Data Science & ML Interview Preparation
-- 🔬 Credit Risk Scorecard Development
-- 🤖 Agentic AI & LLM Applications
-- 📊 Advanced Analytics & Model Evaluation
-- 🌐 Industrial IoT & Automation
+- ⚙️ Industrial Automation & Control Systems
+- 🔧 Reliability Engineering & Predictive Maintenance
+- 🌐 Industrial IoT & Condition Monitoring
+- 🤖 Applied AI for Plant Operations
 
 ---
 
