@@ -9,7 +9,7 @@ Senior E&I Engineer with **15 years** of hands-on experience across Steel, By-Pr
 - 🏢 **Current Role:** Senior Engineer - E&I, TQ Cert Services Pvt. Ltd. (Aug 2026 - Present) - BPP erection, testing & commissioning
 - 🏛️ **Previous:** Shiv Engineering & Port Services (2025-2026), Thejo Engineering (2020-2025), R.V.R. Projects (2015-2020), ENMAS O&M Services at client Electrosteel Steels (2013-2015), Deepak Steel & Power (2011-2013)
 - 📍 **Location:** Jamshedpur, India
-- 🎓 **Education:** B.Tech in Instrumentation & Control Engineering, BPUT Odisha
+- 🎓 **Education:** B.Tech in Instrumentation Electronics, BPUT Odisha (2009)
 
 ## 🏆 Highlights
 
